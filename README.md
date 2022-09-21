@@ -1,0 +1,4 @@
+- 👋 Hi ladys and gentlemans, I’m @balzan-code
+- 👀 I’m a Full-stack coder
+- 🌱 I’m currently learning new ways to code
+- 💞️ I’m looking to collaborate on all of your projects!
